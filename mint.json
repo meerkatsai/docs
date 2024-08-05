@@ -46,8 +46,11 @@
     {
       "group": "Features",
       "pages": [
-        "features/markdown",
-        "features/code"
+        "features/content_briefs",
+        "features/deepresearch",
+        "features/brand_guidelines",
+        "features/pagebuilder",
+        "features/aipages"
       ]
     }
   ],
