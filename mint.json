@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Meerkats Documentations",
+  "name": "Meerkats Documentation",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -25,22 +25,11 @@
     "name": "Dashboard",
     "url": "https://apps.meerkats.ai"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "anchors": [
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://docs.meerkats.ai"
     },
     {
       "name": "Blog",
