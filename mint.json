@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Meerkats Documentation",
+  "name": "Meerkats AI Documentation",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#7F50DB",
+    "light": "#EFECFF",
+    "dark": "#7F50DB",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#7F50DB",
+      "to": "#816CFC"
     }
   },
   "topbarLinks": [
@@ -22,39 +22,32 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Login",
     "url": "https://apps.meerkats.ai"
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://docs.meerkats.ai"
-    },
-    {
       "name": "Blog",
       "icon": "newspaper",
       "url": "https://www.meerkats.ai/blog"
+    },
+    {
+      "name": "Talk to us",
+      "icon": "comment",
+      "url": "https://www.calendly.com" 
     }
   ],
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
+        "quickstart"      ]
     },
     {
-      "group": "Essentials",
+      "group": "Features",
       "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
+        "features/markdown",
+        "features/code"
       ]
     }
   ],
