@@ -1,5 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
+  "theme":"prism",
   "name": "Meerkats AI Documentation",
   "logo": {
     "dark": "/logo/dark.svg",
@@ -15,6 +16,13 @@
       "to": "#816CFC"
     }
   },
+  "tabs":[
+    {
+      "name": "Learn",
+      "url": "mailto:hi@meerkats.ai"
+    }
+  ],
+
   "topbarLinks": [
     {
       "name": "Support",
