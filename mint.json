@@ -58,9 +58,10 @@
       ]
     },
     {
-      "group": "Enrichments",
+      "group": "Enrichments & Tools",
       "pages": [
-        "enrichments"
+        "enrichments",
+        "tools"
       ]
     },
     {
