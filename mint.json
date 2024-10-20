@@ -44,7 +44,7 @@
       "group": "Get Started",
       "pages": [
         "quickstart",
-        "introduction.mdx"]
+        "introduction"]
     },
     {
       "group": "Features",
