@@ -51,16 +51,12 @@
       "group": "Importing Data",
       "pages": [
         "importing.mdx"
-   ]
+        ]
     },
     {
-      "group": "Features",
+      "group": "Table Operations",
       "pages": [
-        "features/content_briefs",
-        "features/deepresearch",
-        "features/brand_guidelines",
-        "features/pagebuilder",
-        "features/aipages"
+        "quickstart"
       ]
     }
   ],
