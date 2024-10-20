@@ -20,7 +20,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@meerkats.ai"
+      "url": "mailto:support@meerkats.ai"
     }
   ],
   "topbarCtaButton": {
@@ -50,7 +50,7 @@
     {
       "group": "Importing Data",
       "pages": [
-        "importing.mdx"
+        "importing"
         ]
     },
     {
