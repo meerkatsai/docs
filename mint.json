@@ -58,6 +58,18 @@
       "pages": [
         "quickstart"
       ]
+    },
+    {
+      "group": "Enrichments",
+      "pages": [
+        "quickstart"
+      ]
+    },
+    {
+      "group": "Export",
+      "pages": [
+        "quickstart"
+      ]
     }
   ],
   "footerSocials": {
