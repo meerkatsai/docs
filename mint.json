@@ -48,6 +48,12 @@
         "introduction"]
     },
     {
+      "group": "Importing Data",
+      "pages": [
+        "importing.mdx"
+   ]
+    },
+    {
       "group": "Features",
       "pages": [
         "features/content_briefs",
